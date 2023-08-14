@@ -19,4 +19,9 @@ Cuddle   - Baho me bharana;
 Aroma    - Khusbu
 Stink    - Badbu
 Day-4
-Preposterous- 
+Preposterous- Beka Behuda
+Exile - Desh Nikala
+Congenital Liar - Paidashi Jhootha
+Bosom friend -  Jigree Dost
+Scrooge - Kanjoosh
+
