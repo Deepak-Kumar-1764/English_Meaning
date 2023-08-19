@@ -12,7 +12,7 @@ Ferment - Khalbali
 Novisce - Nausakhiya
 Dismey  - Bechaini
 Stenech - Badbu
-Dy-3
+Day-3
 Generous - Dariya Dil
 Turmoil  - Khalbali
 Cuddle   - Baho me bharana;
@@ -24,4 +24,11 @@ Exile - Desh Nikala
 Congenital Liar - Paidashi Jhootha
 Bosom friend -  Jigree Dost
 Scrooge - Kanjoosh
+Day-5
+studious - padhaku
+strike - hadtaal
+stuborn - jiddi
+abide - palan karna
+abhor - nafrat karna 
+
 
