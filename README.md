@@ -25,10 +25,15 @@ Congenital Liar - Paidashi Jhootha
 Bosom friend -  Jigree Dost
 Scrooge - Kanjoosh
 Day-5
-studious - padhaku
-strike - hadtaal
-stuborn - jiddi
-abide - palan karna
-abhor - nafrat karna 
-
+studious - Padhaku
+strike - Hadtaal
+stuborn - Jiddi
+abide - Palan karna
+abhor - Nafrat karna 
+Day-6
+compulsion - Majboori me
+Elavorate - Vistar se batana
+Goosebumps - Rongte khade hona
+Tont - Tana marna
+Rumble - Pet Gad Gadana
 
